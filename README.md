@@ -2,6 +2,6 @@
 
 Welcome to my portfolio
 
-# Projects
+# Work
 
 - Countdown Timer (Vanilla JS)
