@@ -1,7 +1,7 @@
-# The name of the repo
+# Hello, World
 
-Summmary of stuff here
+Welcome to my portfolio
 
-# This is how you set up the project
+# Projects
 
-Do things here. Afterwards, do more stuff.
+- Countdown Timer (Vanilla JS)
