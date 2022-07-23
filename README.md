@@ -4,5 +4,5 @@ Welcome to my portfolio
 
 # Contents
 
-- Portfolio site
-- Countdown Timer (Vanilla JS)
+--> Portfolio site
+--> Countdown Timer (Vanilla JS)
